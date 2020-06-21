@@ -1,0 +1,9 @@
+scipy
+numpy
+scikit-learn
+tensorflow-gpu==2.2.0
+keras
+opencv-python
+keras_efficientnets
+keras_applications
+#tensorflow-addons
